@@ -1,7 +1,5 @@
-flask
-gunicorn
+Flask
 requests
-feedparser
 beautifulsoup4
-lxml
-apscheduler
+python-telegram-bot==13.15
+gunicorn
